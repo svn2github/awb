@@ -1831,7 +1831,7 @@ namespace AutoWikiBrowser
             this.btnStop.Size = new System.Drawing.Size(117, 23);
             this.btnStop.TabIndex = 8;
             this.btnStop.Text = "Stop";
-            this.ToolTip.SetToolTip(this.btnStop, "Stops everything  (Esc)");
+            this.ToolTip.SetToolTip(this.btnStop, "Stops everything (Esc)");
             this.btnStop.UseVisualStyleBackColor = false;
             this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
             // 
